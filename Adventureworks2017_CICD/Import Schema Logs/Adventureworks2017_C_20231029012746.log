@@ -1,0 +1,10 @@
+10/28/2023 9:27:46 PM	This log contains information about the import schema operation into project 'Adventureworks2017_CICD' on computer 'DESKTOP-OB9D3NI' by user 'Md.Shahidul Amin'.
+10/28/2023 9:27:46 PM	Deserializing model
+10/28/2023 9:27:46 PM	Resolving model
+10/28/2023 9:27:47 PM	Visiting imported model for types
+10/28/2023 9:27:47 PM	Scanning project for duplicate elements
+10/28/2023 9:27:47 PM	Finished duplicate element processing
+10/28/2023 9:27:48 PM	Processing extra files
+10/28/2023 9:27:48 PM	Finished importing Data-tier Application file.
+10/28/2023 9:27:48 PM	A summary of the import was saved to the following location: C:\Users\Md.Shahidul Amin\source\repos\Adventureworks2017_CICD\Adventureworks2017_CICD\Import Schema Logs\Adventureworks2017_C_20231029012746.log
+10/28/2023 9:27:48 PM	Click Finish to continue...

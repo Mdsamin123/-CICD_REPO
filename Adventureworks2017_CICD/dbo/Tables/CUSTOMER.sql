@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[CUSTOMER] (
+    [CUSTOMER_ID]        INT          NOT NULL,
+    [SSN]                VARCHAR (11) NULL,
+    [FIRST_NAME]         VARCHAR (40) NOT NULL,
+    [MID_NAME]           VARCHAR (20) NULL,
+    [LAST_NAME]          VARCHAR (50) NOT NULL,
+    [PRIMARY_PHONE]      VARCHAR (15) NULL,
+    [DATE_OF_BIRTH]      DATETIME     NOT NULL,
+    [GENDER]             CHAR (1)     NOT NULL,
+    [CUSTOMER_STATUS]    VARCHAR (15) NOT NULL,
+    [LAST_MODIFIED_DATE] DATETIME     NOT NULL
+);
+
